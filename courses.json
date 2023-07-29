@@ -1,5 +1,6 @@
 [
     {
+	"id_": 1245215421,
         "name":"Highlights of Calculus",
         "date":1530133200,
         "description":"Highlights of Calculus is a series of short videos that introduces the basic ideas of calculus \u2014 how it works and why it is important. The intended audience is high school students, college students, or anyone who might need help understanding the subject.\nIn addition to the videos, there are summary slides and practice problems complete with an audio narration by Professor Strang. You can find these resources to the right of each video.",
@@ -82,6 +83,7 @@
         ]
     },
     {
+	"id_": 1245215422,
         "name":"Introduction to Programming",
         "date":1659906000,
         "description":"An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and \"debug\" it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.",
@@ -144,6 +146,7 @@
         ]
     },
     {
+	"id_": 1245215423,
         "name":"Computer Vision Course",
         "date":1502398800,
         "description":"Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka \u201cdeep learning\u201d) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. From this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.\n",
@@ -223,6 +226,7 @@
         ]
     },
     {
+	"id_": 1245215424,
         "name":"Introduction to Deep Learning",
         "date":1653512400,
         "description":"Course lectures for MIT Introduction to Deep Learning.",
